@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Munki"
-    url: /tags/#munki
+  - title: "Archive"
+    url: /year-archive/
   - title: "Tools"
     url: /tools
   # - title: "About"
