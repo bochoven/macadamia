@@ -5,7 +5,7 @@ layout: single
 
 logGen is a command-line utility (for now) for detecting filesystem changes after a preference change or package installation. This is primarily useful when creating your own .pkg files so you know what you need to package.
 
-You can download the logGen installer here: [loggen-2.2.dmg]({{ site.url }}/downloads/loggen-2.2.dmg) 
+You can download the logGen installer here: [loggen-2.2.dmg]({{ site.baseurl }}/downloads/loggen-2.2.dmg) 
 
 LogGen is written by Phil Holland with changes by Dave Pugh, Chris Grieb and J. Billings in 2008. The script was available on http://lsa.umich.edu and when it disappeared I decided to host it for Mac Admins. I still occasionally use it to capture files from hostile package installers.
 

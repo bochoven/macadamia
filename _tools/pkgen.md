@@ -3,11 +3,11 @@ title: pkgGen
 layout: single
 ---
 
-pkgGen is a perl script that parses the output from [logGen]({{ site.url }}/tools/loggen) and copies the files to a fake root directory. You can use this tree to build a package using packagemaker, iceberg or some other packaging tool.
+pkgGen is a perl script that parses the output from [logGen]({{ site.baseurl }}/tools/loggen) and copies the files to a fake root directory. You can use this tree to build a package using packagemaker, iceberg or some other packaging tool.
 
 The script comes in an installer package that places it in ``/usr/local/sbin`:
 
-[Download pkggen.zip]({{ site.url }}/downloads/pkggen.zip)
+[Download pkggen.zip]({{ site.baseurl }}/downloads/pkggen.zip)
 
 # Source
 
