@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Arjen van Bochoven"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/img/Macadamia-nuts.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Working for nuts."
   location         : "Amsterdam"
   email            :
